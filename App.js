@@ -1,6 +1,5 @@
 import React from 'react';
 import { Text,View,Button,TextInput,StyleSheet,Image,TouchableOpacity} from 'react-native';
-//import profile from "./assets/profile.jpg";
 
 function App() {
   return <View style={Styles.container}>
